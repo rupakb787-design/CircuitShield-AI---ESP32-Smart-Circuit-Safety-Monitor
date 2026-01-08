@@ -1,0 +1,2 @@
+# CircuitShield-AI---ESP32-Smart-Circuit-Safety-Monitor
+ESP32 + INA219 based real-time circuit monitoring system with automatic overcurrent protection. Monitors voltage, current &amp; power, shows live V-I graphs on phone, and cuts power via relay when current exceeds 1.5A. Wi-Fi AP mode dashboard with AI safety analysis (Normal/Warning/Overload).  Connect to ESP_AI_METER → 192.168.4.1 → Live monitoring
